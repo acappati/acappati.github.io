@@ -13,16 +13,17 @@ redirect_from:
 
 For the PDF version click [here](/assets/cv.pdf).
 
-- *place of birth*: Torino, Italy
-- *date of birth*: 13/07/1993
+- *place of birth*: Cirie, Italy
+- *date of birth*: 10/05/1993
 - *citizenship*: Italian
-- *work address*: *Commissariat à l’Energie Atomique et aux énergies alternatives*, DRT/LIST/DIASI/SIALV/LVML, Bât. 861 p. 42, F-91120 Palaiseau, France
-- *research interests*: machine learning, artificial intelligence, computer vision, data science, spectroscopy, chemometrics, geometry, field theory
+- *work address*: *Laboratoire Leprince-Ringuet*, Palaiseau, France
+- *research interests*: high energy particle physics, machine learning
 
 ## Work Experience
 
-I am a permanent **Research Scientist** at the *Direction de la recherche tecnologique* (DRT/LIST/DIASI/SIALV/LVML) for AI applications to physical data.
+I am Posdoctoral researcher at *Laboratoire Leprince-Ringuet* working on Higgs boson physics within the CMS Collaboration at CERN.
 
+...
 - 12/2022 - present: **Research Engineer**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
 - 09/2022 - 12/2022: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LVML), Saclay, France.
 - 02/2021 - 08/2022: **Postdoctoral Researcher**, *Commissariat &agrave; l'Energie Atomique et aux énergies Alternatives* (LANIE and LVML), Saclay, France.
